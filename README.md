@@ -23,14 +23,14 @@ Hi! I’m Ryan. This is my personal GitHub profile where I explore, document, an
 
 > These links only work if you’re signed in and have access.
 
-- [cybernyan-admin](https://github.com/ryanrasmussen/cybernyan-admin) – Admin scripts, ops tools, and node configs for my Cybernyan setup
+- [Homelab](https://github.com/ryanrasmussen/Homelab) – Central configuration, automation, and documentation for my home infrastructure
 - [TP1](https://github.com/ryanrasmussen/TP1) – Turing Pi 1: Cluster orchestration, dashboards, and service definitions
 - [TP2](https://github.com/ryanrasmussen/TP2) – Turing Pi 2: Experimental services, Kubernetes, and hardware integrations
-- [bnq-sensor-bridge](https://github.com/ryanrasmussen/bnq-sensor-bridge) – Sensor data bridge for BNQ-based hardware
+- [cybernyan-admin](https://github.com/ryanrasmussen/cybernyan-admin) – Admin scripts, ops tools, and node configs for my Cybernyan setup
 - [Transcoding](https://github.com/ryanrasmussen/Transcoding) – Media format conversions and pipeline tools
-- [KSP-Controller](https://github.com/ryanrasmussen/KSP-Controller) – Custom hardware interface for Kerbal Space Program
-- [Nachi-OpenWRT](https://github.com/ryanrasmussen/Nachi-OpenWRT) – Router setup and configs for Nachi (Raspberry Pi CM4-based OpenWRT)
 - [SPDIF-VBAN-Bridge](https://github.com/ryanrasmussen/SPDIF-VBAN-Bridge) – Digital audio transport bridge (TOSLINK to VBAN over LAN)
+- [Nachi-OpenWRT](https://github.com/ryanrasmussen/Nachi-OpenWRT) – Router setup and configs for Nachi (Raspberry Pi CM4-based OpenWRT)
+- [bnq-sensor-bridge](https://github.com/ryanrasmussen/bnq-sensor-bridge) – Sensor data bridge for BNQ-based hardware
 
 ---
 
@@ -38,7 +38,7 @@ Hi! I’m Ryan. This is my personal GitHub profile where I explore, document, an
 
 You can check out any of my public repositories or pinned projects on my [GitHub profile](https://github.com/ryanrasmussen).
 
-- [Homelab](https://github.com/ryanrasmussen/Homelab) – Central configuration, automation, and documentation for my home infrastructure
+- [KSP-Controller](https://github.com/ryanrasmussen/KSP-Controller) – Custom hardware interface for Kerbal Space Program
 
 ---
 
