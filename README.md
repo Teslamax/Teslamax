@@ -24,9 +24,9 @@ Hi! I’m Ryan. This is my personal GitHub profile where I explore, document, an
 > These links only work if you’re signed in and have access.
 
 - [Homelab](https://github.com/Teslamax/Homelab) – Central configuration, automation, and documentation for my home infrastructure
+- [cybernyan-admin](https://github.com/Teslamax/cybernyan-admin) – Admin scripts, ops tools, and node configs for my Cybernyan setup
 - [TP1](https://github.com/Teslamax/TP1) – Turing Pi 1: Cluster orchestration, dashboards, and service definitions
 - [TP2](https://github.com/Teslamax/TP2) – Turing Pi 2: Experimental services, Kubernetes, and hardware integrations
-- [cybernyan-admin](https://github.com/Teslamax/cybernyan-admin) – Admin scripts, ops tools, and node configs for my Cybernyan setup
 - [Transcoding](https://github.com/Teslamax/Transcoding) – Media format conversions and pipeline tools
 - [SPDIF-VBAN-Bridge](https://github.com/Teslamax/SPDIF-VBAN-Bridge) – Digital audio transport bridge (TOSLINK to VBAN over LAN)
 - [Nachi-OpenWRT](https://github.com/Teslamax/Nachi-OpenWRT) – Router setup and configs for Nachi (Raspberry Pi CM4-based OpenWRT)
