@@ -30,7 +30,9 @@ Hi! I’m Ryan. This is my personal GitHub profile where I explore, document, an
 - [Transcoding](https://github.com/Teslamax/Transcoding) – Media format conversions and pipeline tools
 - [SPDIF-VBAN-Bridge](https://github.com/Teslamax/SPDIF-VBAN-Bridge) – Digital audio transport bridge (TOSLINK to VBAN over LAN)
 - [Nachi-OpenWRT](https://github.com/Teslamax/Nachi-OpenWRT) – Router setup and configs for Nachi (Raspberry Pi CM4-based OpenWRT)
+- [BMC-Lite HAT](https://github.com/Teslamax/BMC-Lite-HAT) – Raspberry Pi HAT for headless setups including RGB indicator LED and buttons for reboot, etc.
 - [bnq-sensor-bridge](https://github.com/Teslamax/bnq-sensor-bridge) – Sensor data bridge for BNQ-based hardware
+- [Gracie](https://github.com/Teslamax/Gracie) – archived information about my 2005 Acura TL including maintenance records, etc.
 
 ---
 
