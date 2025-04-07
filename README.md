@@ -23,13 +23,15 @@ Hi! I’m Ryan. This is my personal GitHub profile where I explore, document, an
 
 > These links only work if you’re signed in and have access.
 
-- [Homelab](https://github.com/Teslamax/Homelab) – Central configuration, automation, and documentation for my home infrastructure
-- [cybernyan-admin](https://github.com/Teslamax/cybernyan-admin) – Admin scripts, ops tools, and node configs for my Cybernyan setup
-- [TP1](https://github.com/Teslamax/TP1) – Turing Pi 1: Cluster orchestration, dashboards, and service definitions
-- [TP2](https://github.com/Teslamax/TP2) – Turing Pi 2: Experimental services, Kubernetes, and hardware integrations
-- [SPDIF-VBAN-Bridge](https://github.com/Teslamax/SPDIF-VBAN-Bridge) – Digital audio transport bridge (TOSLINK to VBAN over LAN)
-- [Nachi-OpenWRT](https://github.com/Teslamax/Nachi-OpenWRT) – Router setup and configs for Nachi (Raspberry Pi CM4-based OpenWRT)
-- [bnq-sensor-bridge](https://github.com/Teslamax/bnq-sensor-bridge) – Sensor data bridge for BNQ-based hardware
+- IT & Homelab configuration
+  - [Homelab](https://github.com/Teslamax/Homelab) – Central configuration, automation, and documentation for my home infrastructure
+  - [cybernyan-admin](https://github.com/Teslamax/cybernyan-admin) – Admin scripts, ops tools, and node configs for my Cybernyan setup
+  - [TP1](https://github.com/Teslamax/TP1) – Turing Pi 1: Cluster orchestration, dashboards, and service definitions
+  - [TP2](https://github.com/Teslamax/TP2) – Turing Pi 2: Experimental services, Kubernetes, and hardware integrations
+- Raspberry Pi & microcontroller projects
+  - [SPDIF-VBAN-Bridge](https://github.com/Teslamax/SPDIF-VBAN-Bridge) – Digital audio transport bridge (TOSLINK to VBAN over LAN)
+  - [Nachi-OpenWRT](https://github.com/Teslamax/Nachi-OpenWRT) – Router setup and configs for Nachi (Raspberry Pi CM4-based OpenWRT)
+  - [bnq-sensor-bridge](https://github.com/Teslamax/bnq-sensor-bridge) – Sensor data bridge for BNQ-based hardware
 - [Gracie](https://github.com/Teslamax/Gracie) – archived information about my 2005 Acura TL including maintenance records, etc.
 
 ---
