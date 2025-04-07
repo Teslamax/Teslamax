@@ -32,7 +32,7 @@ Hi! I’m Ryan. This is my personal GitHub profile where I explore, document, an
   - [SPDIF-VBAN-Bridge](https://github.com/Teslamax/SPDIF-VBAN-Bridge) – Digital audio transport bridge (TOSLINK to VBAN over LAN)
   - [Nachi-OpenWRT](https://github.com/Teslamax/Nachi-OpenWRT) – Router setup and configs for Nachi (Raspberry Pi CM4-based OpenWRT)
   - [bnq-sensor-bridge](https://github.com/Teslamax/bnq-sensor-bridge) – Sensor data bridge for BNQ-based hardware
-- [Gracie](https://github.com/Teslamax/Gracie) – archived information about my 2005 Acura TL including maintenance records, etc.
+- [Gracie](https://github.com/Teslamax/Gracie) – archived information about my 2005 Acura TL including modifications, maintenance records, etc.
 
 ---
 
